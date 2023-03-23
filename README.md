@@ -20,11 +20,11 @@ Effective Title, Environment, Steps to Reproduce, Expected Result, Actual Result
 <p align="center">
 Bug Report Title, Enviroment, Steps to Recreate: <br/>
   <br/>
-<img src="./Screenshots/bug_report_1.png" height="80%" width="80%" alt="Menu"/>
+<img src="./Screenshots/bug_report_1.png" height="80%" width="80%" alt="Report Top"/>
 <br />
 <br />
 Bug Report Expected Result, Actual Result, and Annotated Image <br/>
   <br/>
-<img src="./Screenshots/bug_report_2.png" height="80%" width="80%" alt="Menu"/>
+<img src="./Screenshots/bug_report_2.png" height="80%" width="80%" alt="Report Bottom"/>
 <br />
 <br />
