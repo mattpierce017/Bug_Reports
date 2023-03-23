@@ -1,1 +1,1 @@
-# Bug_Reports
+This is an example of a Bug Report I have done. It shows my understanding of what elements are needed to write an effective Bug Report. The report includes an effective Title, the environment I was in to find the bug, Steps to Reproduce the Bug, Expected Results, Actual Results, and an annotated image that makes it clear where the Bug exists. This example also highlights my knowledge of a Project Management Tool like Jira, which is used to create the Bug Report. 
